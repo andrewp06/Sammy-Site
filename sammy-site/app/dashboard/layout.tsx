@@ -63,7 +63,7 @@ export default function DashboardLayout({
             <Image
                 src={samStudio}
                 alt="Samantha Studio logo"
-                className="mx-auto block w-[15vw] h-auto"
+                className="mx-auto block w-[15vw] min-w-md h-auto"
                 loading="eager"
                 />
         </div>
